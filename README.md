@@ -3,10 +3,13 @@
 https://marioplan-lr.web.app/
 
 the website was being made to have what all users can see, and I was trying to implement in having an admin accessebility to it. 
+
 https://marioplan-lr.web.app/signup
 sign up was a feature I had in but was unable to get all elements together to create users, but I just used it to have admin users.
+
 https://marioplan-lr.web.app/signin 
 you can sign in here and it will show more options that are only visible when logged in that only an admin will see
+
 -the upload option that appears is an option that I was trying to put in so the owner of the site could upload new images of her miniatures for eithe selling or display. I couldn't figure out how to get the images to be pulled from firebase storage and put into an array of some sort to be pulled into the gallery I have. the gallery is just using static images from the image folder.
 
 this should be all the features I have available. just listing the user signup and login I was trying to work with since it's not visible unless you go to it. 
